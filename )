@@ -1,0 +1,60 @@
+[33mcommit b04d4f0e898f819377d9c6c450de49ed4dc1a11c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: ellie002 <elis.kanova@seznam.cz>
+Date:   Sun Mar 21 14:27:37 2021 +0100
+
+    06 - Pridani tabulky
+
+[33mcommit ebcf5988ec7d11b0557b07ff6a34839a1b4052f5[m
+Author: ellie002 <elis.kanova@seznam.cz>
+Date:   Sun Mar 21 12:01:08 2021 +0100
+
+    05 - Dokonceni otazek a odpovedi
+
+[33mcommit c54fdcf21a1d7efad871a1fce748bc755a1dfba2[m
+Author: ellie002 <elis.kanova@seznam.cz>
+Date:   Sat Mar 20 22:49:14 2021 +0100
+
+    04 - CSS otazky a odpovedi
+
+[33mcommit 58fb497bc98ef80eb6c82a5dac554d260448acee[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 1a4d7d3 b2be461
+Author: ellie002 <elis.kanova@seznam.cz>
+Date:   Fri Mar 5 21:12:09 2021 +0100
+
+    Merge branch 'main' of https://github.com/ellie002/www
+
+[33mcommit 1a4d7d33fbd772d955411109e935ed917816d4bb[m
+Author: ellie002 <elis.kanova@seznam.cz>
+Date:   Fri Mar 5 21:09:12 2021 +0100
+
+    03 - Uprava
+
+[33mcommit b2be46118adaa4457513b8b07a43e754ccf3c3f1[m
+Author: ellie002 <79992417+ellie002@users.noreply.github.com>
+Date:   Fri Mar 5 20:52:24 2021 +0100
+
+    Delete _config.yml
+
+[33mcommit 9e4643dbccdc67905526a039122dd749bc467892[m
+Author: ellie002 <79992417+ellie002@users.noreply.github.com>
+Date:   Fri Mar 5 20:45:39 2021 +0100
+
+    Set theme jekyll-theme-minimal
+
+[33mcommit af3dbb97f151ad9acaacfbb0df712e6c0c50648c[m
+Author: ellie002 <79992417+ellie002@users.noreply.github.com>
+Date:   Fri Mar 5 20:31:48 2021 +0100
+
+    Update README.md
+
+[33mcommit 338e378dc3ef044ac08a0dfa5a3ff7f16f3f3358[m
+Author: ellie002 <elis.kanova@seznam.cz>
+Date:   Fri Mar 5 20:25:49 2021 +0100
+
+    02 - Sekce Vznik WWW
+
+[33mcommit 78732d7e121901bae678d0a2a95531c8eb3d5baa[m
+Author: ellie002 <elis.kanova@seznam.cz>
+Date:   Fri Mar 5 19:24:07 2021 +0100
+
+    01 - Zakladni stranka
