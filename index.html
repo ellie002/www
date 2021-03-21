@@ -87,6 +87,32 @@
             <div class="odpoved">Stavový kód odpovědi udává, zda byl požadavek vyřízen v pořádku, či zda došlo k nějakým
                 obtížím. Dva nejčastější stavové kódy jsou 200 (OK) a 404 (Not Found). Kódy jsou trojciferná čísla,
                 dělící se do následujících skupin:
+                <table>
+                    <tr>
+                        <th>Kód</th>
+                        <th>Typ zprávy</th>
+                    </tr>
+                    <tr>
+                        <td>1..</td>
+                        <td>informační zpráva</td>
+                    </tr>
+                    <tr>
+                        <td>2..</td>
+                        <td>úspěšné vyřízení požadavku</td>
+                    </tr>
+                    <tr>
+                        <td>3..</td>
+                        <td>problémy spojené s přesměrováním</td>
+                    </tr>
+                    <tr>
+                        <td>4..</td>
+                        <td>chyby související s vyřízením požadavku (stránka není dostupná, apod.)</td>
+                    </tr>
+                    <tr>
+                        <td>5..</td>
+                        <td>interní chyby serveru</td>
+                    </tr>
+                </table>
             </div>
             <h3>Protokol HTTPS</h3>
             <div class="otazka">Proč se stále častěji využívá protokol HTTPS?</div>
